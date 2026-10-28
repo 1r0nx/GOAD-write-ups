@@ -375,5 +375,4 @@ Per the official GOAD-Light page (orange-cyberdefense.github.io/GOAD/labs/GOAD-L
 - **Kingsguard** — `GenericAll` on stannis.baratheon ✔
 - **tywin.lannister** — `ForceChangePassword` on jaime.lannister ✔
 - **stannis.baratheon** — `GenericAll` on the KINGSLANDING computer object ✔ *(via Shadow Credentials)*
-- **CASTELBLACK / IIS** — ASPX upload → webshell → `SeImpersonatePrivilege` → PrintSpoofer (SYSTEM) ✔
 - **jeor.mormont** — CASTELBLACK admin (creds obtained, usage confirmed) ✔ *(obtained via a NETLOGON leak rather than the officially documented ACL for this account — an alternate path)*

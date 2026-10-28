@@ -37,11 +37,19 @@ Results:
 
 ## 3. User enumeration (Kerberos)
 
-Candidate username list (character names):
+Candidate username list (character names) in the file `users.txt`:
 ```
-tywin.lannister, jaime.lannister, tyron.lannister, cersei.lannister,
-robert.baratheon, joffrey.baratheon, renly.baratheon, stannis.baratheon,
-petyer.baelish, lord.varys, maester.pycelle
+tywin.lannister
+jaime.lannister
+tyron.lannister
+cersei.lannister
+robert.baratheon
+joffrey.baratheon
+renly.baratheon
+stannis.baratheon
+petyer.baelish
+lord.varys
+maester.pycelle
 ```
 
 Validation via Kerberos pre-auth (no authentication required):
